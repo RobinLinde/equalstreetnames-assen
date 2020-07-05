@@ -1,7 +1,3 @@
-**
- * Get all the highway ways in Assen.
- * Filter out bus stops and service highways.
- */
 [out:json][timeout:300];
 ( area["admin_level"="10"]["ref:woonplaatscode"="2391"]["wikidata"="Q798"]; )->.a;
 (
