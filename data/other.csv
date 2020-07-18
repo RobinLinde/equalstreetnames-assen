@@ -38,6 +38,7 @@ Graafschap,,Q1541869,way
 Griekenlandlaan,,Q41,way
 Gymnasiumstraat,,Q2066691,way
 Haarweg,,Q2451504,way
+Havenkade,,Q97011717,way
 "Het Bildt",,Q850722,way
 "Het Sticht",,Q707767,way
 "Hof van Berlijn",,Q64,way
@@ -46,9 +47,11 @@ Hunebedstraat,,Q101659,way
 Hunsingostraat,,Q499390,way
 IJselstraat,,Q217818,way
 Iepenlaan,,Q131113,way
+Industrieweg,,Q8148,way
 Italiëlaan,,Q38,way
 Javastraat,,Q3757,way
 Juniperusplantsoen,,Q25662,way
+Kanaaldijk,,Q1996464,way
 Kastanjelaan,,Q129324,way
 Kennemerland,,Q652480,way
 Kerkplein,,Q1869717,way
@@ -108,8 +111,10 @@ Stadhouderslaan,,Q325380,way
 Stationsplein,,Q47326,relation
 Stationsstraat,,Q47326,way
 Taxusplantsoen,,Q27355,way
+"Ten Catestraat",,Q21451056,way
 Tumulusstraat,,Q34023,way
 Twenthe,,Q1455944,way
+"Van Vlissingenstraat",,Q2743834,way
 Vechtstraat,,Q168904,way
 Vennebroekstraat,,Q2222532,way
 Vesterotonde,,Q92399305,way
@@ -121,10 +126,12 @@ Weserstraat,,Q1650,way
 Westergoo,,Q2613828,way
 Westerwoldestraat,,Q1758227,way
 Weteringstraat,,Q708457,way
+Wiltonstraat,,Q2583543,way
 Witterhoofdweg,,Q2586736,way
 Witterstraat,,Q2586736,way
 Wolgastraat,,Q626,way
 Zaanstraat,,Q136660,way
+Zeilmakerstraat,,Q549237,way
 Zuidenveld,,Q3377106,way
 Zuidersingel,,Q1996464,way
 Zwedenlaan,,Q34,way
@@ -183,7 +190,6 @@ Binnenes,,,way
 Binnenstoep,,,way
 Bitse,,,way
 Blauwbandkade,,,way
-Blijdensteinstraat,,,way
 Blikbree,,,way
 Blokmakerstraat,,,way
 Boeier,,,way
@@ -231,7 +237,6 @@ Buizerdstraat,,,way
 "Burgemeester Masmanweg",,,way
 "Burgemeester de Dreuplein",,,way
 Buxushage,,,way
-"C.T. Storkweg",,,way
 Cantharel,,,way
 "Caro van Eyckweg",,,way
 "Carry van Bruggenweg",,,way
@@ -240,7 +245,6 @@ Cereshof,,,way
 Ceresplein,,,relation
 Ceresstraat,,,way
 Citadel,,,way
-"Claes van Gorcumstraat",,,way
 Collardslaan,,,way
 Cypreslaan,,,way
 "Daan Huizingapad",,,way
@@ -254,6 +258,7 @@ Dassenslag,,,way
 "De Haar",,,way
 "De Havixhorststraat",,,way
 "De Klenckestraat",,,way
+"De Strubben",,,way
 Deelheugte,,,way
 Delbar,,,way
 Delft,,,way
@@ -265,13 +270,11 @@ Dijkveldpad,,,way
 Dillanden,,,way
 Dilletuin,,,way
 Dobbenwal,,,way
-"Doctor A.F. Philipsweg",,,way
 Doevenkamp,,,way
 Domeinpad,,,way
 Domeinweg,,,way
 Dotterbloemstraat,,,way
 Dozystraat,,,way
-"Dr. A.F. Philipsweg",,,way
 Dreslanden,,,way
 Driesweg,,,way
 Drostenlaan,,,way
@@ -347,7 +350,6 @@ Haarbocht,,,way
 Haarlaan,,,way
 Hamerslanden,,,way
 "Hannie Schaftweg",,,way
-Havenkade,,,way
 Havenkanaalpad,,,way
 Haverhullen,,,way
 Havikstraat,,,way
@@ -395,7 +397,6 @@ Hulsthage,,,way
 Huningahof,,,way
 Hunze,,,way
 Iemstukken,,,way
-Industrieweg,,,way
 "Jaap Timmerbocht",,,way
 "Jacob Cramerplein",,,way
 Jadestoep,,,way
@@ -411,7 +412,6 @@ Juweelstoep,,,way
 Kaarnheugte,,,way
 Kambalahout,,,way
 Kamilletuin,,,way
-Kanaaldijk,,,way
 Kanaalstraat,,,way
 "Kanaalweg West",,,way
 Karmijn,,,way
@@ -495,7 +495,6 @@ Lottingstraat,,,way
 "M.L. Kingweg",,,way
 Madeliefstraat,,,way
 Madijk,,,way
-"Mahatma Gandhirotonde",,,way
 "Mahatma Gandhiweg",,,way
 Mandemaat,,,way
 Mandeveen,,,way
@@ -516,6 +515,7 @@ Mauritsstraat,,,way
 Meentgoorn,,,way
 Meerkoetmesschen,,,way
 Meerval,,,way
+Meeuwenmeer,,,way
 Meeuwmesschen,,,way
 Menning,,,way
 "Menso Altingstraat",,,way
@@ -593,7 +593,6 @@ Pinksterbloemstraat,,,way
 Pitteloseweg,,,way
 Planetenlaan,,,way
 Platolaan,,,way
-Plesmanstraat,,,way
 Plutostraat,,,way
 Podzolhamel,,,way
 Polweg,,,way
@@ -691,7 +690,6 @@ Stobakkerpad,,,way
 Stoepveldsingel,,,way
 Strengenpad,,,way
 Stroom,,,way
-Strubben,,,way
 "TT Circuit",,,way
 "TT Junior Track",,,way
 TT-tunnelweg,,,way
@@ -703,7 +701,6 @@ Tarwehullen,,,way
 Taurus,,,way
 Teenslaan,,,way
 Telglanden,,,way
-"Ten Catestraat",,,way
 "Ter Aardseweg",,,way
 Terreplein,,,relation
 Tesingehof,,,way
@@ -739,11 +736,7 @@ Uranusstraat,,,way
 "Vaart Zuidzijde",,,way
 Valkenweg,,,way
 "Van 't Hoffpad",,,way
-"Van Doornestraat",,,way
-"Van Heekstraat",,,way
-"Van Hobokenstraat",,,way
 "Van Swinderenhof",,,way
-"Van Vlissingenstraat",,,way
 "Van den Muyzenbergpad",,,way
 Varenkampen,,,way
 Veemarktpad,,,way
@@ -786,7 +779,6 @@ Weierspoort,,,way
 Weiersstraat,,,way
 Welheugte,,,way
 Wendakker,,,way
-Wenkebachstraat,,,way
 Westerlaan,,,way
 Westerwal,,,way
 Westrupstraat,,,way
@@ -795,11 +787,9 @@ Wiemelheugte,,,way
 Wijkbaan,,,way
 Wilgenbeemd,,,way
 "Willem Lodewijkstraat",,,way
-Wiltonstraat,,,way
 Winde,,,way
 Winkelakker,,,way
 "Winkelrijk Marsdijk",,,way
-"Winkler Prinsstraat",,,way
 Witterbroek,,,way
 Wittergoorn,,,way
 Witterhaar,,,way
@@ -818,7 +808,6 @@ Zeeltstraat,,,way
 Zeemanstraat,,,way
 Zeijerveen,,,way
 Zeijerweg,,,way
-Zeilmakerstraat,,,way
 Zendmastweg,,,way
 Zernikestraat,,,way
 Zevensterstraat,,,way

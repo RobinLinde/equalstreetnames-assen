@@ -9,8 +9,6 @@ Emmastraat,F,Q57664,way
 "Henriëtte Ronnerstraat",F,Q454470,way
 "Hildegard van Bingenrotonde",F,Q70991,way
 "Hildegard van Bingenweg",F,Q70991,way
-"Maria Montessorirotonde",F,Q131117,way
-"Maria Montessoriweg",F,Q131117,way
 "Prinses Beatrixhof",F,Q29574,way
 "Prinses Beatrixstraat",F,Q29574,way
 "Prinses Irenestraat",F,Q263623,way
@@ -28,16 +26,20 @@ Bachstraat,M,Q1339,way
 Beethovenplaats,M,Q255,way
 "Benthem Reddingiusstraat",M,Q2352096,way
 Bilderdijkplantsoen,M,Q1375186,way
+Blijdensteinstraat,M,Q80150147,way
 Boutenslaan,M,Q1816061,way
 Brahmsstraat,M,Q7294,way
 "Burgemeester Agterstraat",M,Q1998260,way
 "Burgemeester Jollesstraat",M,Q2266354,way
+"C.T. Storkweg",M,Q1882752,way
 Chopinlaan,M,Q1268,way
+"Claes van Gorcumstraat",M,Q97011652,way
 Collardslaan,M,Q2143806,way
 "Cort van der Lindenstraat",M,Q1397415,way
 "Da Costalaan",M,Q1673766,way
 Debussylaan,M,Q4700,way
 Diepenbrocklaan,M,Q952378,way
+"Doctor A.F. Philipsweg",M,Q592767,way
 "Doctor H. Colijnstraat",M,Q686476,way
 "Doctor Nassaulaan",M,Q1922573,way
 "Doctor Schaepmanstraat",M,Q4526118,way
@@ -67,8 +69,12 @@ Kuyperstraat,M,Q320014,way
 Lesturgeonstraat,M,Q2439110,way
 Lisztlaan,M,Q41309,way
 Lorentzstraat,M,Q41688,way
+"Mahatma Gandhirotonde",M,Q1001,way
+"Mahatma Gandhiweg",M,Q1001,way
 Mahlerplaats,M,Q7304,way
 Marconistraat,M,Q36488,way
+"Maria Montessorirotonde",M,Q131117,way
+"Maria Montessoriweg",M,Q131117,way
 Marisstraat,M,Q978158,way
 "Martin Luther Kingweg",M,Q8027,way
 Mauritsstraat,M,Q164062,way
@@ -92,6 +98,7 @@ Paganinilaan,M,Q66075,way
 "Peter van Anrooystraat",M,Q2291985,way
 Picardtstraat,M,Q71431,way
 Pijperstraat,M,Q195114,way
+Plesmanstraat,M,Q1936614,way
 "Prins Bernhardstraat",M,Q57304,way
 "Prins Clausplantsoen",M,Q159609,way
 "Prins Hendrikstraat",M,Q503991,way
@@ -112,6 +119,8 @@ Tooropstraat,M,Q369416,way
 Treubstraat,M,Q2224534,way
 "Van Drielststraat",M,Q1957104,way
 "Van Goghstraat",M,Q5582,way
+"Van Heekstraat",M,Q2021457,way
+"Van Hobokenstraat",M,Q2274250,way
 "Van Ostadestraat",M,Q352438,way
 "Van der Feltzpark",M,Q2943366,way
 "Van der Scheerstraat",M,Q2293325,way
@@ -122,7 +131,9 @@ Vondellaan,M,Q312673,way
 "W.A. Scholtenrotonde",M,Q2715240,way
 "W.A. Scholtenstraat",M,Q2715240,way
 Wagnerlaan,M,Q1511,way
+Wenkebachstraat,M,Q24068380,way
 "Wethouder Bergerweg",M,Q88385584,way
 "Wethouder Buningstraat",M,Q88359868,way
+"Winkler Prinsstraat",M,Q574156,way
 "van Heuven Goedhartlaan",M,Q515563,way
 "van Hogendorpstraat",M,Q276871,way
