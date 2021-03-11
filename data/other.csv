@@ -251,6 +251,7 @@ Abrikoospad,,,way
 Achterpad,,,way
 Achterstebree,,,way
 Agaatstoep,,,way
+"Aletta Jacobsweg",,,way
 "Alexander Dubcekweg",,,way
 Alkmesschen,,,way
 Alteveerstraat,,,way
@@ -264,6 +265,7 @@ Anreep,,,way
 Apollopad,,,way
 Appelhof,,,way
 Asserwijk,,,way
+Aubussonpad,,,way
 Baanderheugte,,,way
 Baggelhuizen,,,way
 Balkendwarsweg,,,way
@@ -313,12 +315,12 @@ Buitenes,,,way
 "Burgemeester de Dreuplein",,,way
 Cantharel,,,way
 "Caro van Eyckweg",,,way
-"Carry van Bruggenweg",,,way
 "Cees van Dongen rotonde",,,way
 Cereshof,,,way
 Ceresplein,,,relation
 Ceresstraat,,,way
 Citadel,,,way
+"Content Hofstede",,,way
 Cypreslaan,,,way
 "Daan Huizingapad",,,way
 Dassenslag,,,way
@@ -329,7 +331,9 @@ Dassenslag,,,way
 "De Gaarde",,,way
 "De Haar",,,way
 "De Havixhorststraat",,,way
+"De Hoogspanningsweg",,,way
 "De Klenckestraat",,,way
+"De Lariks",,,way
 "De Strubben",,,way
 Deelheugte,,,way
 Delbar,,,way
@@ -429,7 +433,6 @@ Hertenlaan,,,way
 Heugtepad,,,way
 Hietlanden,,,way
 "Hildegard van Bingenrotonde",,,way
-"Hildegard van Bingenweg",,,way
 Hildeheugte,,,way
 Hindenlaan,,,way
 Hoekbree,,,way
@@ -537,8 +540,6 @@ Madijk,,,way
 Mandemaat,,,way
 Mandeveen,,,way
 Manningahof,,,way
-"Maria Montessorirotonde",,,way
-"Maria Montessoriweg",,,way
 Markedreef,,,way
 Markepad,,,way
 Markt,,,way
@@ -601,6 +602,7 @@ Ossebroeken,,,way
 Oud-Spoorpad,,,way
 "Oude Haarweg",,,way
 "Oude Molenstraat",,,way
+"Oude Poststraat",,,way
 "Oude Trambaan",,,way
 Oude-Grachtpad,,,way
 Oude-Hoofdvaartsweg,,,way
@@ -611,6 +613,7 @@ Paaskamp,,,way
 Papayapad,,,way
 Pareaustraat,,,way
 Parelstoep,,,way
+"Parkeergarage Stadhuis",,,way
 Parkplein,,,way
 Parkstraat,,,way
 "Paul Lodewijkx rotonde",,,way
@@ -627,6 +630,7 @@ Polweg,,,way
 Populierstraat,,,way
 "Port Natalweg",,,way
 Port-Natalplein,,,way
+Poststraat,,,way
 Pottenbakkerstraat,,,way
 Praam,,,way
 Pronkridder,,,way
@@ -693,6 +697,7 @@ Steeginghof,,,way
 Steenhouwerstraat,,,way
 Steigermesschen,,,way
 Stekkenwal,,,way
+Stelling,,,way
 Stelmakerstraat,,,way
 Sternmesschen,,,way
 Stobakkerpad,,,way
@@ -739,7 +744,9 @@ Uranusstraat,,,way
 "Van Swinderenhof",,,way
 "Van den Muyzenbergpad",,,way
 Varenkampen,,,way
+Veemarkt,,,way
 Veemarktpad,,,way
+Veemarktplein,,,way
 Veemarktstraat,,,way
 Veemarktzicht,,,way
 Veenbiezenpad,,,way
@@ -773,6 +780,7 @@ Weierspoort,,,way
 Weiersstraat,,,way
 Welheugte,,,way
 Wendakker,,,way
+Westerbrink,,,way
 Westerlaan,,,way
 Westerwal,,,way
 Westrupstraat,,,way
