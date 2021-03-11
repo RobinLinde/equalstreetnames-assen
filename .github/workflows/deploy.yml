@@ -3,13 +3,13 @@ name: Deploy Assen
 
 on: 
   push:
-    branches: [main]
+    branches: [master]
     paths:
       - ".github/workflows/deploy.yml"
       - "data/*"
   workflow_run:
     workflows: ["Update Assen data"]
-    branches: [main]
+    branches: [master]
     types: 
       - completed
 
