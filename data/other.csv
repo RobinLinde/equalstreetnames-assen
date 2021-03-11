@@ -39,6 +39,7 @@ Buizerdstraat,,Q25385,way
 Buxushage,,Q158703,way
 Cederlaan,,Q128550,way
 Dahliastraat,,Q130918,way
+"De Klenckestraat",,Q2615740,way
 "De Vallei",,Q2924361,way
 "De Wouden",,Q2130210,way
 Delfland,,Q3046110,way
@@ -220,6 +221,7 @@ Waterhoen,,Q18847,way
 Weserstraat,,Q1650,way
 Westergoo,,Q2613828,way
 Westerwoldestraat,,Q1758227,way
+Westrupstraat,,Q2573612,way
 Weteringstraat,,Q708457,way
 Wiltonstraat,,Q2583543,way
 Winde,,Q144497,way
@@ -332,7 +334,6 @@ Dassenslag,,,way
 "De Haar",,,way
 "De Havixhorststraat",,,way
 "De Hoogspanningsweg",,,way
-"De Klenckestraat",,,way
 "De Lariks",,,way
 "De Strubben",,,way
 Deelheugte,,,way
@@ -363,7 +364,6 @@ Eem,,,way
 Eenboomslaan,,,way
 Eendmesschen,,,way
 Egelslag,,,way
-Einthovenstraat,,,way
 Ekkelwal,,,way
 Elandlaan,,,way
 Eleveld,,,way
@@ -374,12 +374,10 @@ Enkeerdbrug,,,way
 Enkeerdhamel,,,way
 Enkeerdpad,,,way
 Epe,,,way
-"Ernst Casimirstraat",,,way
 Esakkerweg,,,way
 Esstraat,,,way
 Europaweg-Zuid,,,way
 Everlaan,,,way
-Eykmanstraat,,,way
 Eysinkweg,,,way
 Fokkenslaantje,,,way
 Forum,,,way
@@ -496,7 +494,6 @@ Kloosterveenrotonde,,,way
 Kloosterveste,,,way
 Kloosterweg,,,way
 Knollenkampen,,,way
-Kochstraat,,,way
 Koldakker,,,way
 Koningsmantel,,,way
 Koopmansplein,,,way
@@ -531,7 +528,6 @@ Leergang,,,way
 Leie,,,way
 Libelkleuven,,,way
 Lindelaan,,,way
-"Linthorst Homanstraat",,,way
 Lonerrotonde,,,way
 Lottingstraat,,,way
 "M.L. Kingweg",,,way
@@ -555,7 +551,6 @@ Meerkoetmesschen,,,way
 Meeuwenmeer,,,way
 Meeuwmesschen,,,way
 Menning,,,way
-"Menso Altingstraat",,,way
 Mercuriusplein,,,relation
 Messchenpad,,,way
 Middenbree,,,way
@@ -569,17 +564,14 @@ Molenbrug,,,way
 Morielje,,,way
 Mosbeemd,,,way
 Mosklok,,,way
-"Mr. P.J. Troelstralaan",,,way
 Muddegoorn,,,way
 Mulderstraat,,,way
-Nansenstraat,,,way
 Naoberdreef,,,way
 Neptunusplein,,,way
 "Nieuwe Huizen",,,way
 Nijlandstraat,,,way
 Nijstukken,,,way
 Nijverheidsweg,,,way
-Nobellaan,,,way
 Noordenveld,,,way
 Noorderes,,,way
 Noorderplantsoen,,,way
@@ -611,7 +603,6 @@ Overstoep,,,way
 Paaskamp,,,way
 "Pad langs graf van valkenstein",,,way
 Papayapad,,,way
-Pareaustraat,,,way
 Parelstoep,,,way
 "Parkeergarage Stadhuis",,,way
 Parkplein,,,way
@@ -668,7 +659,6 @@ Schepersmaat,,,way
 Schieven,,,way
 Schoolstraat,,,way
 Schultestraat,,,way
-Schweitzerstraat,,,way
 Singelpassage,,,way
 Slagenpad,,,way
 Slinge,,,way
@@ -740,8 +730,6 @@ Ulohof,,,way
 Uranusstraat,,,way
 "Vaart Noordzijde",,,way
 "Vaart Zuidzijde",,,way
-"Van 't Hoffpad",,,way
-"Van Swinderenhof",,,way
 "Van den Muyzenbergpad",,,way
 Varenkampen,,,way
 Veemarkt,,,way
@@ -783,12 +771,10 @@ Wendakker,,,way
 Westerbrink,,,way
 Westerlaan,,,way
 Westerwal,,,way
-Westrupstraat,,,way
 Weverstraat,,,way
 Wiemelheugte,,,way
 Wijkbaan,,,way
 Wilgenbeemd,,,way
-"Willem Lodewijkstraat",,,way
 Winkelakker,,,way
 "Winkelcentrum Marsdijk",,,way
 "Winkelrijk Marsdijk",,,way
@@ -804,11 +790,9 @@ Wulpmesschen,,,way
 Zaagmolen,,,way
 Zadelmakerstraat,,,way
 Zandhamel,,,way
-Zeemanstraat,,,way
 Zeijerveen,,,way
 Zeijerweg,,,way
 Zendmastweg,,,way
-Zernikestraat,,,way
 Zichtheugte,,,way
 Zompdijk,,,way
 Zoom,,,way
