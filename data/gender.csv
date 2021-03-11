@@ -15,6 +15,7 @@ Emmastraat,F,Q57664,way
 "Prinses Beatrixstraat",F,Q29574,way
 "Prinses Irenestraat",F,Q263623,way
 "Prinses Margrietstraat",F,Q268821,way
+"Rosa Spierweg",F,Q2913260,way
 "Selma Lagerlöflaan",F,Q44519,way
 Wilhelminastraat,F,Q150747,way
 "A.H.G. Fokkerstraat",M,Q76703,way
@@ -32,7 +33,10 @@ Blijdensteinstraat,M,Q80150147,way
 Boutenslaan,M,Q1816061,way
 Brahmsstraat,M,Q7294,way
 "Burgemeester Agterstraat",M,Q1998260,way
+"Burgemeester Grollemanweg",M,Q2330398,way
 "Burgemeester Jollesstraat",M,Q2266354,way
+"Burgemeester Masman rotonde",M,Q2326671,way
+"Burgemeester Masmanweg",M,Q2326671,way
 "C.T. Storkweg",M,Q1882752,way
 Chopinlaan,M,Q1268,way
 "Claes van Gorcumstraat",M,Q97011652,way
@@ -45,26 +49,32 @@ Diepenbrocklaan,M,Q952378,way
 "Doctor H. Colijnstraat",M,Q686476,way
 "Doctor Nassaulaan",M,Q1922573,way
 "Doctor Schaepmanstraat",M,Q4526118,way
+Dozystraat,M,Q2993255,way
 Dreesstraat,M,Q12769,way
 Dunantstraat,M,Q12091,way
 "E.B. von Dülmen Krumpelmannstraat",M,Q2917596,way
 Einsteinlaan,M,Q937,way
 Fokkerrotonde,M,Q76703,way
 "Frans Halslaan",M,Q167654,way
+"George Kiersstraat",M,Q29422156,way
+"Gerard Doustraat",M,Q335927,way
 Gerbrandystraat,M,Q951705,way
 Händelplaats,M,Q7302,way
 "Harm Boomstraat",M,Q2684461,way
 "Harry Muskee rotonde",M,Q2385314,way
 Haydnplaats,M,Q7349,way
 "Herman Broodstraat",M,Q719447,way
+Herodotuslaan,M,Q26825,way
 Heugtepad,M,Q8027,way
 Heymansstraat,M,Q156482,way
+Homeruslaan,M,Q6691,way
 Huygensstraat,M,Q560746,way
 "Ingenieur J.W. Albardastraat",M,Q2619133,way
 "J.C. van Markenstraat",M,Q1595877,way
 "J.H.A. Schaperstraat",M,Q2560153,way
 "Jacob Catslaan",M,Q46151,way
 "Jan Bommerstraat",M,Q14632469,way
+"Jan Fabriciusstraat",M,Q4480343,way
 "Jan van Ravenswaaystraat",M,Q2750990,way
 "Jonkheer Meester A.F. de Savornin Lohmanstraat",M,Q560539,way
 "Jozef Israëlsweg",M,Q528460,way
@@ -72,6 +82,7 @@ Huygensstraat,M,Q560746,way
 Kuyperstraat,M,Q320014,way
 Lesturgeonstraat,M,Q2439110,way
 Lisztlaan,M,Q41309,way
+"Lodewijk Napoleonplein",M,Q7729,way
 Lorentzstraat,M,Q41688,way
 "Mahatma Gandhirotonde",M,Q1001,way
 "Mahatma Gandhiweg",M,Q1001,way
@@ -96,15 +107,18 @@ Oldenhofstraat,M,Q2680626,way
 Paganinilaan,M,Q66075,way
 "Paul Krugerstraat",M,Q244407,way
 "Paulus Potterstraat",M,Q355406,way
+Pericleslaan,M,Q80398,way
 "Peter van Anrooypad",M,Q2291985,way
 "Peter van Anrooystraat",M,Q2291985,way
 Picardtstraat,M,Q71431,way
 Pijperstraat,M,Q195114,way
+Platolaan,M,Q859,way
 Plesmanstraat,M,Q1936614,way
 "Prins Bernhardstraat",M,Q57304,way
 "Prins Clausplantsoen",M,Q159609,way
 "Prins Hendrikstraat",M,Q503991,way
 "Prins Willemstraat",M,Q78454,way
+"Professor Prakkeweg",M,Q30307117,way
 Rabenhauptstraat,M,Q1041411,way
 Ravellaan,M,Q1178,way
 Rembrandtlaan,M,Q5598,way
@@ -112,8 +126,10 @@ Roessinghstraat,M,Q1496091,way
 Röntgenstraat,M,Q35149,way
 Rossinilaan,M,Q9726,way
 "Rudolf van Coevordenstraat",M,Q3230002,way
+Ruysdaelstraat,M,Q213612,way
 Schubertlaan,M,Q7312,way
 Smetanalaan,M,Q48173,way
+Socrateslaan,M,Q913,way
 Sweelinckplein,M,Q110294,way
 Talmastraat,M,Q2398838,way
 Thorbeckelaan,M,Q182509,way
