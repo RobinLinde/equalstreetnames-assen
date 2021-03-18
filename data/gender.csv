@@ -6,6 +6,7 @@ name,gender,wikidata,type
 "Carry van Bruggenweg",F,Q447097,way
 Curiestraat,F,Q7186,way
 Emmastraat,F,Q57664,way
+"Hannie Schaftweg",F,Q448486,way
 "Henriëtte Roland Holstlaan",F,Q441439,way
 "Henriëtte Ronnerstraat",F,Q454470,way
 "Hildegard van Bingenrotonde",F,Q70991,way
@@ -17,12 +18,15 @@ Emmastraat,F,Q57664,way
 "Prinses Irenestraat",F,Q263623,way
 "Prinses Margrietstraat",F,Q268821,way
 "Rosa Spierweg",F,Q2913260,way
+"Rotonde Moeder Teresa",F,Q30547,way
 "Selma Lagerlöflaan",F,Q44519,way
 Wilhelminastraat,F,Q150747,way
 "A.H.G. Fokkerstraat",M,Q76703,way
 "Aart van der Leeuwlaan",M,Q524770,way
 "Abel Tasmanplein",M,Q42188,way
 "Adama van Scheltemalaan",M,Q2784229,way
+"Alexander Dubcekweg",M,Q150543,way
+"Andrej Sacharovweg",M,Q997,way
 "Anne de Vriesstraat",M,Q286841,way
 "Anton van Duinkerkenlaan",M,Q447108,way
 "Arthur van Schendellaan",M,Q202355,way
@@ -81,6 +85,7 @@ Huygensstraat,M,Q560746,way
 "Jacob Catslaan",M,Q46151,way
 "Jan Bommerstraat",M,Q14632469,way
 "Jan Fabriciusstraat",M,Q4480343,way
+"Jan Palachweg",M,Q192893,way
 "Jan van Ravenswaaystraat",M,Q2750990,way
 "Jonkheer Meester A.F. de Savornin Lohmanstraat",M,Q560539,way
 "Jozef Israëlsweg",M,Q528460,way
@@ -92,6 +97,7 @@ Lesturgeonstraat,M,Q2439110,way
 Lisztlaan,M,Q41309,way
 "Lodewijk Napoleonplein",M,Q7729,way
 Lorentzstraat,M,Q41688,way
+"M.L. Kingweg",M,Q8027,way
 "Mahatma Gandhirotonde",M,Q1001,way
 "Mahatma Gandhiweg",M,Q1001,way
 Mahlerplaats,M,Q7304,way
