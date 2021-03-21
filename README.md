@@ -4,11 +4,11 @@ This repo contains the submodule containing the data for Assen in the EqualStree
 
 ## Data updates
 
-The data is updated every monday by Github Actions:
-[![Update Assen data](https://github.com/RobinLinde/equalstreetnames-assen/actions/workflows/update-data.yml/badge.svg)](https://github.com/RobinLinde/equalstreetnames-assen/actions/workflows/update-data.yml)
+The data is updated every thursday by Github Actions:
+[![Update data](https://github.com/EqualStreetNames/equalstreetnames-assen/actions/workflows/update-data.yml/badge.svg)](https://github.com/EqualStreetNames/equalstreetnames-assen/actions/workflows/update-data.yml)
 
 Afterwards the new version of the site is pushed to the `gh-pages` branch:
-[![Deploy Assen](https://github.com/RobinLinde/equalstreetnames-assen/actions/workflows/deploy.yml/badge.svg)](https://github.com/RobinLinde/equalstreetnames-assen/actions/workflows/deploy.yml)
+[![Deploy](https://github.com/EqualStreetNames/equalstreetnames-assen/actions/workflows/deploy.yml/badge.svg)](https://github.com/EqualStreetNames/equalstreetnames-assen/actions/workflows/deploy.yml)
 
 ## Contributing
 
