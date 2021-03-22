@@ -1,6 +1,6 @@
 # EqualStreetNames-Assen
 
-This repo contains the submodule containing the data for Assen in the EqualStreetNames project. For more information about the project, visit the [main repo](https://github.com/openknowledgebe/equalstreetnames).
+This repo contains the submodule containing the data for Assen in the EqualStreetNames project. For more information about the project, visit the [main repo](https://github.com/EqualStreetNames/equalstreetnames).
 
 ## Data updates
 
