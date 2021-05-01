@@ -4,6 +4,7 @@ name,source,gender,wikidata,type
 "Caro van Eyckrotonde",wikidata,F,Q2690875,way
 "Caro van Eyckweg",wikidata,F,Q2690875,way
 "Carry van Bruggenweg",wikidata,F,Q447097,way
+"Content Hofstede",wikidata,F,Q106675757,way
 Curiestraat,wikidata,F,Q7186,way
 Emmastraat,wikidata,F,Q57664,way
 "Hannie Schaftweg",wikidata,F,Q448486,way
@@ -41,10 +42,13 @@ Blijdensteinstraat,wikidata,M,Q80150147,way
 Boutenslaan,wikidata,M,Q1816061,way
 Brahmsstraat,wikidata,M,Q7294,way
 "Burgemeester Agterstraat",wikidata,M,Q1998260,way
+"Burgemeester Bothenius Lohmanweg",wikidata,M,Q1918882,way
+"Burgemeester Gratamastraat",wikidata,M,Q3186003,way
 "Burgemeester Grollemanweg",wikidata,M,Q2330398,way
 "Burgemeester Jollesstraat",wikidata,M,Q2266354,way
 "Burgemeester Masman rotonde",wikidata,M,Q2326671,way
 "Burgemeester Masmanweg",wikidata,M,Q2326671,way
+"Burgemeester de Dreuplein",wikidata,M,Q2109686,way
 "C.T. Storkweg",wikidata,M,Q1882752,way
 "Cees van Dongen rotonde",wikidata,M,Q730031,way
 Chopinlaan,wikidata,M,Q1268,way
@@ -72,12 +76,14 @@ Fokkerrotonde,wikidata,M,Q76703,way
 "George Kiersstraat",wikidata,M,Q29422156,way
 "Gerard Doustraat",wikidata,M,Q335927,way
 Gerbrandystraat,wikidata,M,Q951705,way
+"Gouverneur Hofstedelaan",wikidata,M,Q2804608,way
 Händelplaats,wikidata,M,Q7302,way
 "Harm Boomstraat",wikidata,M,Q2684461,way
 "Harry Muskee rotonde",wikidata,M,Q2385314,way
 Haydnplaats,wikidata,M,Q7349,way
 Heemskerkstraat,wikidata,M,Q21162284,way
 "Hendrik de Ruiterstraat",wikidata,M,Q106646425,way
+"Hendrik van Boeijenlaan",wikidata,M,Q2513200,way
 "Herman Broodstraat",wikidata,M,Q719447,way
 Herodotuslaan,wikidata,M,Q26825,way
 Heymansstraat,wikidata,M,Q156482,way
@@ -88,10 +94,13 @@ Huygensstraat,wikidata,M,Q560746,way
 "J.H.A. Schaperstraat",wikidata,M,Q2560153,way
 "Jaap Timmerbocht",wikidata,M,Q105885624,way
 "Jacob Catslaan",wikidata,M,Q46151,way
+"Jacob Cramerplein",wikidata,M,Q2287624,way
 "Jan Bommerstraat",wikidata,M,Q14632469,way
 "Jan Fabriciusstraat",wikidata,M,Q4480343,way
+"Jan Naardingstraat",wikidata,M,Q14931943,way
 "Jan Palachweg",wikidata,M,Q192893,way
 "Jan van Ravenswaaystraat",wikidata,M,Q2750990,way
+"Johan Hoflaan",wikidata,M,Q106676037,way
 "Johannes Kroezepad",wikidata,M,Q106612866,way
 "Jonkheer Meester A.F. de Savornin Lohmanstraat",wikidata,M,Q560539,way
 "Jozef Israëlsweg",wikidata,M,Q528460,way
@@ -151,7 +160,7 @@ Roessinghstraat,wikidata,M,Q1496091,way
 Röntgenstraat,wikidata,M,Q35149,way
 Rossinilaan,wikidata,M,Q9726,way
 "Rudolf van Coevordenstraat",wikidata,M,Q3230002,way
-Ruysdaelstraat,wikidata,M,Q213612,way
+Ruysdaelstraat,wikidata,M,Q19262794;Q213612,way
 Schubertlaan,wikidata,M,Q7312,way
 Schweitzerstraat,wikidata,M,Q49325,way
 Smetanalaan,wikidata,M,Q48173,way
