@@ -69,7 +69,7 @@ Etstoelstraat,wikidata,,Q2175460,way
 Europaweg-Noord,wikidata,,Q46,way
 Europaweg-Oost,wikidata,,Q46,way
 Europaweg-West,wikidata,,Q46,way
-Europaweg-Zuid,wikidata,,Q46,way
+Europaweg-Zuid,wikidata,,Q18767552;Q46,way
 Eysinkweg,wikidata,,Q1385903,way
 Fivelingostraat,wikidata,,Q1421904,way
 Flamingolaan,wikidata,,Q3901583,way
@@ -162,6 +162,7 @@ Oosterpark,wikidata,,Q105410772,way
 Oostersingel,wikidata,,Q1996464,way
 Oranjebond,wikidata,,Q2271194,way
 Overcingellaan,wikidata,,Q18767552,way
+Peelerveld,wikidata,,Q14066791,way
 Peelo,wikidata,,Q14066791,way
 "Peelo Oost",wikidata,,Q14066791,way
 Pelikaanstraat,wikidata,,Q3898950,way
@@ -257,6 +258,7 @@ Wouwstraat,wikidata,,Q208342,way
 Zaanstraat,wikidata,,Q136660,way
 Zalmstraat,wikidata,,Q184238,way
 Zeeltstraat,wikidata,,Q76280,way
+Zeijerveen,wikidata,,Q2628418,way
 Zeilmakerstraat,wikidata,,Q549237,way
 Zevensterstraat,wikidata,,Q50346430,way
 Zilverschoonstraat,wikidata,,Q157815,way
@@ -574,7 +576,6 @@ Parelstoep,,,,way
 Parkplein,,,,way
 Parkstraat,,,,way
 Peelerpark,,,,way
-Peelerveld,,,,way
 Peeloërespad,,,,way
 Perenstraat,,,,way
 Perzikstraat,,,,way
@@ -592,7 +593,6 @@ Prooststraat,,,,way
 Propellerpad,,,,way
 Punter,,,,way
 Riete,,,,way
-"Rijksweg 33",,,,way
 Riklanden,,,,way
 Robijnstoep,,,,way
 Rochtplein,,,,way
@@ -737,7 +737,6 @@ Wulpmesschen,,,,way
 Zaagmolen,,,,way
 Zadelmakerstraat,,,,way
 Zandhamel,,,,way
-Zeijerveen,,,,way
 Zeijerweg,,,,way
 Zendmastweg,,,,way
 Zichtheugte,,,,way
